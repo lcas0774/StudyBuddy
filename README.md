@@ -1,4 +1,4 @@
-```STUDY BUDDY```
+# STUDY BUDDY 
 Terminal conversational program that helps decide what to study depending on submission date, total grade weight, progression status and available time. 
 Requires standard Python 3.9 or higher.
 
